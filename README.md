@@ -1,6 +1,6 @@
 # Exploração e análise de dados de crédito com SQL
 Esse notebook faz parte do curso SQL para análise de dados da EBAC.
-Esse projeto também pode ser encontrado no [Kaggle](https://www.kaggle.com/code/guilhermekoga/projeto-sql-credito)
+Esse projeto também pode ser encontrado no [Kaggle](https://www.kaggle.com/code/guilhermekoga/projeto-sql-credito).
 ### Os dados:
 Os dados representam informações de clientes de um banco e contam com as seguintes colunas:
 
